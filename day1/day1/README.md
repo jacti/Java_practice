@@ -37,7 +37,7 @@
     
 3. JAVA extension 설치
     
-    ![Java Extension](https://file.notion.so/f/f/35268ecc-3bd6-408c-a35e-4d7a3f212dc2/a83f6918-24d9-4c7b-9073-dae2876f5309/Untitled.png?id=44e5cfbe-7c4a-4891-9e95-078eda13c837&table=block&spaceId=35268ecc-3bd6-408c-a35e-4d7a3f212dc2&expirationTimestamp=1712793600000&signature=IavsuQJqYApr0V7wEsHv3PO5LM407MkYDQcu95x6a9k&downloadName=Untitled.png)
+    ![JavaExtension](https://github.com/jacti/Java_practice/assets/90906272/31ceae3b-ede1-496a-9a02-231fe61016f6)
     
 4. Java project 생성
     1. command + shift + p
