@@ -37,7 +37,7 @@
     
 3. JAVA extension 설치
     
-    ![JavaExtension](https://github.com/jacti/Java_practice/assets/90906272/31ceae3b-ede1-496a-9a02-231fe61016f6)
+    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/35268ecc-3bd6-408c-a35e-4d7a3f212dc2/a83f6918-24d9-4c7b-9073-dae2876f5309/Untitled.png)
     
 4. Java project 생성
     1. command + shift + p
