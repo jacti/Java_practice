@@ -10,7 +10,6 @@ Java로 코딩 테스트를 준비하는 데 있어서, 주어진 5일 동안 �
 - **Java 기본 문법**: 자료형, 변수, 배열, 조건문, 반복문
     - 참고 자료: [Java 기본 문법](https://www.w3schools.com/java/java_syntax.asp)
 
-[1일차: Java 기초와 환경 설정](https://www.notion.so/1-Java-a7241345b57341c3a33f449f0cf35328?pvs=21)
 
 ### 2일차: 객체 지향 프로그래밍
 
