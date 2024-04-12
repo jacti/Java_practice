@@ -88,6 +88,6 @@ System.out.println("주석 끝");
     - call method 가능
     - 대문자로 시작
     - Strings, Arrays, Classes, Interface, etc.
-    - https://non-major-developer.tistory.com/19
+    - [== vs equals](https://non-major-developer.tistory.com/19)
 
 ### Type Casting
